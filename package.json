@@ -1,0 +1,28 @@
+{
+  "name": "book-record-management",
+  "version": "1.0.0",
+  "description": "Book Record Management Application",
+  "main": "index.js",
+  "dependencies": {
+    "corepack": "^0.14.2",
+    "express": "^4.18.2",
+    "npm": "^8.19.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gupta0Kaustubh/book-record-management.git"
+  },
+  "author": "kaustubh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gupta0Kaustubh/book-record-management/issues"
+  },
+  "homepage": "https://github.com/Gupta0Kaustubh/book-record-management#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

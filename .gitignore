@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+corepack
+corepack.cmd
+install_tools.bat
+node_etw_provider.man
+node.exe
+nodevars.bat
+npm
+npm.cmd
+npx
+npx.cmd
